@@ -52,7 +52,7 @@ ChessVision-DeepLearning/
 ## Usage
 1. Clone the repository:
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Zahra-Ghaffary/ChessVision-DeepLearning.git
 cd ChessVision-DeepLearning
 ````
 
